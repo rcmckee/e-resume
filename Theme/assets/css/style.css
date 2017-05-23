@@ -271,7 +271,7 @@ h6.title-footer {
 /* ========== WRAP SECTIONS ========== */
 
 #headerwrap {
-	background: url(../img/header_bg.jpg) no-repeat center top;
+	background: url(../img/leaf-nodes.png) no-repeat center top;
 	margin-top: -120px;
 	padding-top:160px;
 	text-align:center;
@@ -282,14 +282,14 @@ h6.title-footer {
 }
 
 #headerwrap h1 {
-	color:#ffffff;
+	color:#28a0ff;
 	margin-top: 140px;
 	padding-bottom: 30px;
 	letter-spacing: 8px;
 }
 
 #headerwrap p {
-	color:#ffffff;
+	color:#28a0ff;
 	font-size: 30px;
 	font-weight: 400;
 	text-align: center;
